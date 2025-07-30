@@ -50,7 +50,7 @@ HERE IS HOW I TRACKED MY PROGRESS ON NOTION:: https://www.notion.so/DATA-WAREHOU
 Hi, I'm Jai Vijayran, an aspiring data analyst with a passion for turning raw data into meaningful insights. 🌟 I'm confident, driven, and excited to leverage tools like SQL Server to build solutions that empower businesses. My goal is to craft data-driven stories that inspire informed decisions and spark innovation. Connect with me to collaborate on exciting data projects! 🚀
 
 YOU CAN CONNECT WITH ME ON: 
-📸 INSTAGRAM: [jai.vijayran](https://www.instagram.com/jai.vijayran)
+📸 INSTAGRAM: jai.vijayran
 👻 SNAPCHAT: jaivijayran_40
 💼 LINKEDIN: cH.Jai Vijayran(www.linkedin.com/in/ch-jai-vijayran-9a74a0372)
  
